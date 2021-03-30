@@ -1,0 +1,6 @@
+C:\Users\craig\source\repos\heysethUmbrellas\heysethUmbrellas\bin\Debug\heysethUmbrellas.dll
+C:\Users\craig\source\repos\heysethUmbrellas\heysethUmbrellas\bin\Debug\heysethUmbrellas.pdb
+C:\Users\craig\source\repos\heysethUmbrellas\heysethUmbrellas\obj\Debug\heysethUmbrellas.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\heysethUmbrellas\heysethUmbrellas\obj\Debug\heysethUmbrellas.csproj.CoreCompileInputs.cache
+C:\Users\craig\source\repos\heysethUmbrellas\heysethUmbrellas\obj\Debug\heysethUmbrellas.dll
+C:\Users\craig\source\repos\heysethUmbrellas\heysethUmbrellas\obj\Debug\heysethUmbrellas.pdb

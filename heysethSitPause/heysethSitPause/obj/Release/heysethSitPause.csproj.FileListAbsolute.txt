@@ -1,0 +1,6 @@
+C:\Users\craig\source\repos\heysethSitPause\heysethSitPause\bin\Release\heysethSitPause.dll
+C:\Users\craig\source\repos\heysethSitPause\heysethSitPause\bin\Release\heysethSitPause.pdb
+C:\Users\craig\source\repos\heysethSitPause\heysethSitPause\obj\Release\heysethSitPause.csprojAssemblyReference.cache
+C:\Users\craig\source\repos\heysethSitPause\heysethSitPause\obj\Release\heysethSitPause.csproj.CoreCompileInputs.cache
+C:\Users\craig\source\repos\heysethSitPause\heysethSitPause\obj\Release\heysethSitPause.dll
+C:\Users\craig\source\repos\heysethSitPause\heysethSitPause\obj\Release\heysethSitPause.pdb
